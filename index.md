@@ -7,8 +7,7 @@ layout: default
 [Facebook](https://www.facebook.com/peloerata)  
 [GitHub](https://github.com/alexmeise)  
 
-rkan001@gmail.com  
-herrmeise@gmail.com  
+mail@alexandermeise.com
 
 This site is under constant evolution - therefore some pages might be under construction.
 

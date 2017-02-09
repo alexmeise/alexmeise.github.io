@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Alexander Meise
 [Curriculum Vitae](https://alexmeise.github.io/cv)  
 [Projects & Skills](http://alexmeise.github.io/projects)  
 [Linked In](https://www.linkedin.com/in/alexander-meise-7574a153/)  

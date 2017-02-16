@@ -1,6 +1,6 @@
-[Descargar CV en Alemán](https://drive.google.com/open?id=0B1kbXXDWKhzjTmdhRk95cm0wY00)  
-[Descargar CV en Inglés](https://drive.google.com/open?id=0B1kbXXDWKhzjbjdRWGc0WXpQZm8)  
-[Descargar CV en Español](https://drive.google.com/open?id=0B1kbXXDWKhzjdGtsendrcTd2WUE)  
+[Auf Deutsch Herunterladen](https://drive.google.com/open?id=0B1kbXXDWKhzjTmdhRk95cm0wY00)  
+[Download English](https://drive.google.com/open?id=0B1kbXXDWKhzjbjdRWGc0WXpQZm8)  
+[Descargar en Español](https://drive.google.com/open?id=0B1kbXXDWKhzjdGtsendrcTd2WUE)  
   
 ![pic](https://www.linkedin.com/mpr/mpr/p/1/005/036/37c/27f9959.jpg)
 

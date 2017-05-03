@@ -8,4 +8,12 @@ layout: default
 
 mail@alexandermeise.com  
 
-[Invítame a un Café](https://www.paypal.me/MeiseVillar)
+  
+    
+   Invitamé a un café   
+
+[con PayPal](https://www.paypal.me/MeiseVillar) 
+
+o bitcoin  
+  
+![Acepto bitcoin](https://lh6.googleusercontent.com/SKvSx5cGbxoqTBKoYkPkwhAuCtWwIxXOJaHB801y3x87HRs8979jCo_SM2s-iq7qGupGxX-FbiVWkNc=w1920-h924)

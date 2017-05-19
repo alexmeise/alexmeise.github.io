@@ -25,4 +25,4 @@ mail@alexandermeise.com
 Invitamé a un café [con PayPal](https://www.paypal.me/MeiseVillar) o bitcoin:
   
 ![Acepto bitcoin](btc.jpg)  
-36DwiT4wA8LUZHPBx6oxTDr4HhxsLuM5Rq
+1L435HBjD4vTmioCY6KWqdqJ1wPLAPYfMs

@@ -1,9 +1,7 @@
-*Still sketching this offering*
+I offer consultancy sessions as a freelance.
 
-I offer consultancy sessions as a freelance, if I can solve your issue or help you out with your project we can agree on a price.
-Introducing yourself and explaining your problem is free. My main expertise is IT infrastructure and specially the installation, maintenance, update and migration of IIS and Tomcat servers.
+My main expertise is IT infrastructure and specially the installation, maintenance, update and migration of IIS and Tomcat servers and sites, general administration of UNIX and WINDOWS servers aswell.
 
-We can speak (Spanish, English, German) on the phone or using Skype, Slack, Google, Whatsapp, Facebook or your prefered platform.
-You can see my profile on [remote.com](http://www.remote.com)
+I can also translate technical texts from English to Spanish (specialy about crypto/blockchain topics)
 
-I accept all kind of payments including bitcoin. 
+I accept all kind of payments including bitcoin and Paypal.

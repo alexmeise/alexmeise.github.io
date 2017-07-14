@@ -5,6 +5,7 @@ layout: default
 [Projects & Skills](http://alexmeise.github.io/projects)  
 [Linked In](https://www.linkedin.com/in/alexander-meise-7574a153/)  
 [GitHub](https://github.com/alexmeise)  
+[Freelance & Translations](https://alexmeise.github.io/freelance)
 
 mail@alexandermeise.com  
 

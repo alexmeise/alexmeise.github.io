@@ -8,7 +8,7 @@ layout: default
 [Facebook](https://www.facebook.com/peloerata)  
 [StackOverflow](https://stackoverflow.com/users/1869399/alexander-meise)  
 [Freelance & Translations](https://alexmeise.github.io/freelance)  
-[Lois](https://www.lois.com)
+[Lois](https://www.lois.com)  
 [Donate](https://alexmeise.github.io/donate)  
 
 mail@alexandermeise.com    

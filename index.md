@@ -9,24 +9,6 @@ layout: default
 [StackOverflow](https://stackoverflow.com/users/1869399/alexander-meise)  
 [Freelance & Translations](https://alexmeise.github.io/freelance)  
 [Lois](https://www.lois.com)
+[Donate](https://alexmeise.github.io/donate)  
 
 mail@alexandermeise.com    
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-Invitamé a un café [con PayPal](https://www.paypal.me/MeiseVillar) o bitcoin:
-  
-![Acepto bitcoin](https://blockchain.info/es/qr?data=13tsoyKGtKv5AvFLbsgGkbzo1SRi8pAESW&size=200)  
-13tsoyKGtKv5AvFLbsgGkbzo1SRi8pAESW

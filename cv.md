@@ -45,13 +45,13 @@
 ### Skills
 
 *   Server Administration
-    *   Windows (2003, 2008, 2008 R2, 2012, 2012 R2, PowerShell 2.0, 3.0 and 4.0),
+    *   Windows (2003, 2008, 2008 R2, 2012, 2012 R2, 2016 PowerShell 2.0, 3.0 and 4.0),
     *   UNIX (Debian, Red Hat, Solaris, AIX),
-*   Web (IIS 6, 7.5 & 8.5, Tomcat 5, 6 & 7, Apache 2.2 & 2.4, JBoss).
-*   Devops (Puppet, Gitlab, Github, PowerShell)
+*   Web (IIS 6, 7.5 & 8.5, 10 Tomcat 5, 6 & 7, Apache 2.2 & 2.4, JBoss 6.3 & 6.4).
+*   Devops (Puppet, PowerShell, Automation, XML, YAML)
 *   Containers and Workflow (Openshift, Jenkins, Nexus, Git)
 *   Ticketing & monitoring (ServiceNow, Remedy, TIVOLI, VMWare Service Manager),
-*   High availability environments with the latest technologies such as VMWare, Citrix, SQL, ORACLE, Reverse Proxy, Firewall, DB2, Mainframe, MQ Series, AS400, Load Runner,
+*   High availability environments with the latest technologies such as VMWare, Citrix, SQL, ORACLE, Reverse Proxy, Firewall, DB2, Mainframe, MQ Series, AS400, Load Runner.
 *   Prepared & presented Information (MS Visio, MS Office, MindMaps, PhotoShop, GIMP, Gephi),
 *   Project management (GTD, MS Project, ClearQuest),
 *   Stress management techniques, team orientated, good task and relationship balance,

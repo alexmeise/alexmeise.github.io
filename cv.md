@@ -47,15 +47,17 @@ Download versions might by slightly outdated!
 ### Skills
 
 *   Server Administration
-    *   Windows (2003, 2008, 2008 R2, 2012, 2012 R2, 2016 PowerShell 2.0, 3.0 and 4.0),
-    *   UNIX (Debian, Red Hat, Solaris, AIX),
-*   Web (IIS 6, 7.5 & 8.5, 10 Tomcat 5, 6 & 7, Apache 2.2 & 2.4, JBoss 6.3 & 6.4).
-*   Devops (Puppet, PowerShell, Automation, XML, YAML)
-*   Containers and Workflow (Openshift, Jenkins, Nexus, Git)
+    *   Windows (2003, 2008, 2008 R2, 2012, 2012 R2, 2016 PowerShell 2.0, 3.0 and 4.0).
+    *   UNIX (Red Hat 5, 6 & 7, Debian based distros, Solaris, AIX).
+*   Web (IIS 6, 7.5, 8.5 & 10 Tomcat 5, 6 & 7, Apache 2.2 & 2.4, JBoss 6.3 & 6.4, WebLogic).
+*   Devops (Puppet, PowerShell, Automation, XML, YAML).
+*   Basic understanding and knowledge of Programming Languages (Java mainly but bits of Prolog and Haskell)
+*   Basic understanding and experience with Web Languages (Javascript, .Net, ASP)
+*   Basic SQL experience (PostGress, SQL Server, ORACLE).
+*   Containers and Workflow (Openshift, Jenkins, Nexus, Git).
 *   Ticketing & monitoring (ServiceNow, Remedy, TIVOLI, VMWare Service Manager),
-*   High availability environments with the latest technologies such as VMWare, Citrix, SQL, ORACLE, Reverse Proxy, Firewall, DB2, Mainframe, MQ Series, AS400, Load Runner.
-*   Prepared & presented Information (MS Visio, MS Office, MindMaps, PhotoShop, GIMP, Gephi),
-*   Project management (GTD, MS Project, ClearQuest),
-*   Stress management techniques, team orientated, good task and relationship balance,
-*   Analytical skills, synthetic mind, organized and methodical, minimalist approach.
-*   Other: Driving License and own car, experience in several sports including climbing and basketball, swimming and cycling.
+*   Prepare & present Information (MS Visio, MS Office, MindMaps, PhotoShop, GIMP, Gephi).
+*   Project management (GTD, MS Project, ClearQuest).
+*   Stress management techniques, team orientated, good task and relationship balance.
+*   Analytical skills, organized and methodical, minimalist approach.
+*   Other: Driving License and own car & motorbike, experience in several sports including climbing and basketball (team work, risk management), swimming (concentration and improvement) and cycling (endurance).

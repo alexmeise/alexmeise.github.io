@@ -2,7 +2,7 @@
 [Download English](https://drive.google.com/open?id=0B1kbXXDWKhzjbjdRWGc0WXpQZm8)  
 [Descargar en Español](https://drive.google.com/open?id=0B1kbXXDWKhzjdGtsendrcTd2WUE)  
   
-![pic](https://www.linkedin.com/mpr/mpr/p/1/005/036/37c/27f9959.jpg)
+![pic](https://media.licdn.com/dms/image/C5103AQH9zc1NTy5i-g/profile-displayphoto-shrink_200_200/0?e=1542844800&v=beta&t=g0-f7KfNzBBn6GYje9kEyq8UsVNTBDC1AEr4mhakQFo)
 
 ### Qualification Summary
 

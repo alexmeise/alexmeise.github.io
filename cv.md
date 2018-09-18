@@ -16,7 +16,7 @@
 
 #### Application Delivery Platforms - Web Hosting Member for Boehringer Ingelheim (Ambit) - May 2016 - Present
 
-> Apache, Tomcat, Jboss, IIS, Automation with Puppet and Powershell. Follow the sun Incident Resolution and Project Work (Set up new environments and Migrations)
+> Apache, Tomcat, Jboss, IIS, Automation with Puppet and Powershell. Follow the sun Incident Resolution and Project Work (Set up new environments and Migrations) Starting with Openshift, Jenkins and container related workflow.
 
 #### Subject Matter Expert Microsoft Applications (CSC –Zurich Insurance) - March 2016
 
@@ -40,6 +40,7 @@
 
 *   Red Hat Command Line skills (RH 190)
 *   ITIL foundations v3
+*   Architecting on AWS (course, Loading... certification)
 
 ### Skills
 
@@ -48,6 +49,7 @@
     *   UNIX (Debian, Red Hat, Solaris, AIX),
 *   Web (IIS 6, 7.5 & 8.5, Tomcat 5, 6 & 7, Apache 2.2 & 2.4, JBoss).
 *   Devops (Puppet, Gitlab, Github, PowerShell)
+*   Containers and Workflow (Openshift, Jenkins, Nexus, Git)
 *   Ticketing & monitoring (ServiceNow, Remedy, TIVOLI, VMWare Service Manager),
 *   High availability environments with the latest technologies such as VMWare, Citrix, SQL, ORACLE, Reverse Proxy, Firewall, DB2, Mainframe, MQ Series, AS400, Load Runner,
 *   Prepared & presented Information (MS Visio, MS Office, MindMaps, PhotoShop, GIMP, Gephi),

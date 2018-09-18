@@ -1,6 +1,8 @@
 [Auf Deutsch Herunterladen](https://drive.google.com/open?id=0B1kbXXDWKhzjTmdhRk95cm0wY00)  
 [Download English](https://drive.google.com/open?id=0B1kbXXDWKhzjbjdRWGc0WXpQZm8)  
-[Descargar en Español](https://drive.google.com/open?id=0B1kbXXDWKhzjdGtsendrcTd2WUE)  
+[Descargar en Español](https://drive.google.com/open?id=0B1kbXXDWKhzjdGtsendrcTd2WUE) 
+
+Download versions might by slightly outdated!
   
 ![pic](https://media.licdn.com/dms/image/C5103AQH9zc1NTy5i-g/profile-displayphoto-shrink_200_200/0?e=1542844800&v=beta&t=g0-f7KfNzBBn6GYje9kEyq8UsVNTBDC1AEr4mhakQFo)
 

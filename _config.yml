@@ -1,7 +1,7 @@
 # Site settings
-title: alexmeise
+title: Alexander Meise
 tag_text: Alexander Meise
-description: This is intended to present my cv and contact information.
+description: Alexander Meise's personal page with CV and additional information. Get to know me!
 
 # Build settings
 markdown: kramdown

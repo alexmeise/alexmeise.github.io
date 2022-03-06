@@ -7,6 +7,6 @@ layout: default
 [GitHub](https://github.com/alexmeise)   
 [StackOverflow](https://stackoverflow.com/users/1869399/alexander-meise)  
 [Freelance](https://alexmeise.github.io/freelance)  
-[Donate](https://alexmeise.github.io/donate)  
+[Crypto Wallets](https://alexmeise.github.io/donate)  
 
 Get in touch with me via LinkedIN. 

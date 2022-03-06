@@ -1,22 +1,24 @@
-[Auf Deutsch Herunterladen](https://drive.google.com/open?id=0B1kbXXDWKhzjTmdhRk95cm0wY00)  
-[Download English](https://drive.google.com/open?id=0B1kbXXDWKhzjbjdRWGc0WXpQZm8)  
-[Descargar en Español](https://drive.google.com/open?id=0B1kbXXDWKhzjdGtsendrcTd2WUE) 
-
-Download versions might by slightly outdated! Up to date version below.
+outofdate [Auf Deutsch Herunterladen](https://drive.google.com/open?id=0B1kbXXDWKhzjTmdhRk95cm0wY00)  
+outofdate [Download English](https://drive.google.com/open?id=0B1kbXXDWKhzjbjdRWGc0WXpQZm8)  
+outofdate [Descargar en Español](https://drive.google.com/open?id=0B1kbXXDWKhzjdGtsendrcTd2WUE) 
   
-![pic](https://media.licdn.com/dms/image/C5103AQH9zc1NTy5i-g/profile-displayphoto-shrink_200_200/0?e=1542844800&v=beta&t=g0-f7KfNzBBn6GYje9kEyq8UsVNTBDC1AEr4mhakQFo)
+![pic](https://avatars.githubusercontent.com/u/22340666?s=400&u=8d99f75b2882c0db7d1351fbb0a2385c6693708f&v=4)
 
 ### Qualification Summary
 
-*   Application and Web server administration on UNIX and Windows Server.
+*   Cloud Engineer specialized in AWS and Kubernetes. 
 
-*   Incident & Project Work, Automation.
+*   Operations and Project Work. 
 
-*   Spanish, English, German, Team player, Stress Management Techniques.
+*   Spanish, English, German, Team player.
 
 ### Employment
 
-#### Application Delivery Platforms - Web Hosting Member for Boehringer Ingelheim (Ambit) - May 2016 - Present
+#### Senior Cloud SRE at CAPSiDE/NTT - Feb 2019 - Present
+
+> AWS, Terraform & Cloudformation. Specialized in Kubernetes and EKS (eksctl, traefik, prometheus, etc...)
+
+#### Application Delivery Platforms - Web Hosting Member for Boehringer Ingelheim (Ambit) - May 2016 - Feb 2019
 
 > Apache, Tomcat, Jboss, IIS, Automation with Puppet and Powershell. Follow the sun Incident Resolution and Project Work (Set up new environments and Migrations) Starting with Openshift, Jenkins and container related workflow.
 
@@ -40,24 +42,29 @@ Download versions might by slightly outdated! Up to date version below.
 
 ### Certifications
 
+*   CKA Certified Kubernetes Administrator
+*   AWS Architecting Associate 
 *   Red Hat Command Line skills (RH 190)
 *   ITIL foundations v3
-*   Architecting on AWS (course, Loading... certification)
 
-### Skills
+### Hard Skills
 
-*   Server Administration
-    *   Windows (2003, 2008, 2008 R2, 2012, 2012 R2, 2016 PowerShell 2.0, 3.0 and 4.0).
-    *   UNIX (Red Hat 5, 6 & 7, Debian based distros, Solaris, AIX).
-*   Web (IIS 6, 7.5, 8.5 & 10 Tomcat 5, 6 & 7, Apache 2.2 & 2.4, JBoss 6.3 & 6.4, WebLogic).
-*   Devops (Puppet, PowerShell, Automation, XML, YAML).
-*   Basic understanding and knowledge of Programming Languages (Java mainly but bits of Prolog and Haskell)
-*   Basic understanding and experience with Web Languages (Javascript, .Net, ASP)
+*   Devops, SRE approach to infrastrucrure lifecycle. 
+*   AWS Specialized: EKS, VPC, EC2, S3, ES, CW, Lambda ...
+*   Containers and k8s: EKS, Openshift, Jenkins, ArgoCD, Traefik, Prometheus, OPA ...
+*   Server Administration: Windows and specially UNIX ...
+*   Web & App Server Administration: Apache, NINGX, TOMCAT ..
+*   Experience Delivering Infrastructure Projects ...
+*   Basic Programming/Scripting Experience with Bash, Perl, Python and Go
 *   Basic SQL experience (PostGress, SQL Server, ORACLE).
-*   Containers and Workflow (Openshift, Jenkins, Nexus, Git).
-*   Ticketing & monitoring (ServiceNow, Remedy, TIVOLI, VMWare Service Manager),
-*   Prepare & present Information (MS Visio, MS Office, MindMaps, PhotoShop, GIMP, Gephi).
-*   Project management (GTD, MS Project, ClearQuest).
-*   Stress management techniques, team orientated, good task and relationship balance.
+
+### Soft Skills
+
+*   Team oriented, good task and relationship balance.
+*   Interview and Mentoring experience. 
 *   Analytical skills, organized and methodical, minimalist approach.
-*   Other: Driving License and own car & motorbike, experience in several sports including climbing and basketball (team work, risk management), swimming (concentration and improvement) and cycling (endurance).
+
+### Other
+
+*   Driving License and own car & motorbike.
+*   Experience in several sports including climbing and basketball (team work, risk management).

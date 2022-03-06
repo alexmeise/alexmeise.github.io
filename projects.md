@@ -1,3 +1,5 @@
+This page has not been updated yet and reflects the experience I had 3 years ago before I started in a cloud role. 
+
 ## Technical    
 * Migrating hundreds of IIS websites    
 * Migrating applications from Red Hat 5 to Red Hat 7 from windows 2003 to windows 2012   

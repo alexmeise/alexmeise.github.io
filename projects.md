@@ -1,16 +1,24 @@
 ## Current Role
 ### Technical    
-* Suport heterogeneous client's CLOUD infrastrucure: whole lifecycle. Mainly AWS but also GCP.
+* Support heterogeneous client's CLOUD infrastrucure: whole lifecycle. Mainly AWS but also GCP.
+
 * Deploy new infrastructure environments and solve complexities, find solutions to technical problems with creativity. Maintain/Take On cloud infrastructure and try to automate everything. 
+
 * Setup, secure, configure and maintain Kubernetes clusters and Modules. Upgrade clusters and addons. Fight with deprecations. Evolve systems and solutions, share the knowledge. 
+
 * Strong focus on infrastructure as code and Configuration Management. Not only deploy infra as code but also make it easy for someone else to repeat. Document your decisions.
+
 * High Availability, Monitoring, build reliable systems that auto scale and auto heal. 
 
 ### Soft 
 * Lead Projects and areas of expertise when needed and be able to transfer the knowledge during the process/afterwards. 
-* Reliability and Accountability: I need to get involved.
-* TeamWork: Discuss solutions with team mates to find the best way forward. Collaborate, Mentor, Help, Participate. 
+
+* Reliability and accountability: I need to get involved.
+
+* Teamwork: discuss solutions with team mates to find the best way forward. collaborate, mentor, help, participate, learn. 
+
 * Maintain a good a healhty relationship between technical and business/comunication skills. 
+
 
 ## Previous Experience - Until 2019.
 ### Technical

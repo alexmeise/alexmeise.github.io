@@ -10,6 +10,10 @@
 
 * High Availability, Monitoring, build reliable systems that auto scale and auto heal. 
 
+{% comment %}
+Need to talk more about IAC? 
+{% endcomment %}
+
 ### Soft 
 * Lead Projects and areas of expertise when needed and be able to transfer the knowledge during the process/afterwards. 
 

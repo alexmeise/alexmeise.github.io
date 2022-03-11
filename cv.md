@@ -38,8 +38,8 @@
 
 ### Certifications
 
-*   CKA (Certified Kubernetes Administrator)
-*   AWS Architecting Associate
+*   CKA (Certified Kubernetes Administrator) [verify](https://www.credly.com/badges/50b60cfa-0661-4560-919a-0f7408e45e92/linked_in)
+*   AWS Architecting Associate [verify](https://www.credly.com/badges/c21f3c9f-f4d0-46d0-86ff-c458a601784d/linked_in)
 *   Red Hat Command Line skills (RH 190)
 *   ITIL foundations v3
 

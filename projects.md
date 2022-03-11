@@ -21,7 +21,7 @@ Need to talk more about IAC?
 
 * Teamwork: discuss solutions with team mates to find the best way forward. collaborate, mentor, help, participate, learn. 
 
-* Maintain a good a healhty relationship between technical and business/comunication skills. 
+* Maintain a good and healhty relationship between technical and business/comunication skills. 
 
 
 ## Previous Experience - Until 2019.

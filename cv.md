@@ -43,7 +43,7 @@
 *   Red Hat Command Line skills (RH 190)
 *   ITIL foundations v3
 
-### Skills (out of date)
+### Background Skills (previous to cloud work)
 
 *   Server Administration
     *   Windows (2003, 2008, 2008 R2, 2012, 2012 R2, 2016 PowerShell 2.0, 3.0 and 4.0).

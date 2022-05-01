@@ -7,4 +7,4 @@ layout: default
 [GitHub](https://github.com/alexmeise)   
 [StackOverflow](https://stackoverflow.com/users/1869399/alexander-meise)  
 
-Get in touch with me via LinkedIN. 
+info@alexandermeise.com

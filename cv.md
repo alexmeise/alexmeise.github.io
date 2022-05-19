@@ -10,7 +10,11 @@
 
 ### Employment
 
-#### Senior Cloud SRE at CAPSiDE/NTT - Feb 2019 - Present
+#### Senior DevOps at nodeguardians.io - May 2022 - Present
+
+> Terraform, Kubernetes, GCP and AWS. 
+
+#### Senior Cloud SRE at CAPSiDE/NTT - Feb 2019 - May 2022
 
 > AWS, Terraform & Cloudformation. Specialized in Kubernetes and EKS (eksctl, traefik, prometheus, etc...)
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Senior DevOps at [nodeguardians.io](nodeguardians.io)
+Senior DevOps at [nodeguardians.io](https://nodeguardians.io)
 
 [Curriculum Vitae](https://alexmeise.github.io/cv)  
 [Projects & Skills](http://alexmeise.github.io/projects)  

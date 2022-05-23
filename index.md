@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<img src="amlogo.png" alt="drawing" width="25%"/>
+<img src="amlogo.png" alt="drawing" width="25%" align="left"/>
+
 
 Senior DevOps at [nodeguardians.io](https://nodeguardians.io)
 

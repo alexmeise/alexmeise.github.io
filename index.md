@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![Logo](https://alexandermeise.com/amlogo.png)
+
 Senior DevOps at [nodeguardians.io](https://nodeguardians.io)
 
 [Curriculum Vitae](https://alexmeise.github.io/cv)  

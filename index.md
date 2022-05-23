@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<p align="left">
-<img src="amlogo.png" alt="drawing" width="25%"/>
-</p>
+
 
 Senior DevOps at [nodeguardians.io](https://nodeguardians.io)
 
@@ -15,3 +13,5 @@ Senior DevOps at [nodeguardians.io](https://nodeguardians.io)
 [StackOverflow](https://stackoverflow.com/users/1869399/alexander-meise)  
 
 info@alexandermeise.com
+
+<img src="amlogo.png" alt="drawing" width="15%"/>

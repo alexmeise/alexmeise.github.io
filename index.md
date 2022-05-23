@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-![Logo](https://alexandermeise.com/amlogo.png)
+
+<img src="amlogo.png" alt="drawing" width="25%"/>
 
 Senior DevOps at [nodeguardians.io](https://nodeguardians.io)
 

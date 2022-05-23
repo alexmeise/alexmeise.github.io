@@ -64,3 +64,6 @@
 *   Stress management techniques, team orientated, good task and relationship balance.
 *   Analytical skills, organized and methodical, minimalist approach.
 *   Other: Driving License and own car & motorbike, experience in several sports including climbing and basketball (team work, risk management), swimming (concentration and improvement) and cycling (endurance).
+
+
+<img src="amlogo.png" alt="drawing" width="15%"/>

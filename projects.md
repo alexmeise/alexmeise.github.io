@@ -61,3 +61,6 @@ Need to talk more about IAC?
 * Continuity and Improvement team member (Incident, Problem and Risk, Documentation, multicultural team)  
 * SME Microsoft Applications (Migrations and new insfrastructure Projects, Documentation, team work, travel on site)  
 * DevOps (Automation and support, work remote, work on site) 
+
+
+<img src="amlogo.png" alt="drawing" width="15%"/>

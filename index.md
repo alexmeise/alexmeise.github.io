@@ -15,3 +15,5 @@ Senior DevOps at [nodeguardians.io](https://nodeguardians.io)
 info@alexandermeise.com
 
 <img src="amlogo.png" alt="drawing" width="15%"/>
+
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/avalancheavax/52046432230/" title="AVADAY06-5"><img src="https://live.staticflickr.com/65535/52046432230_082535ca66_b.jpg" width="1024" height="681" alt="AVADAY06-5">

@@ -13,14 +13,10 @@ Senior DevOps at [nodeguardians.io](https://nodeguardians.io) 😎
 [StackOverflow](https://stackoverflow.com/users/1869399/alexander-meise)  
 
  
-<div align="left">
-    <a href="https://michaelcurrin.github.io/unicron/">
-        <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="badge"/>
-        <br>
-        <img src="https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="badge"/>
-    </a>
-</div>
-  
+<p float="left">
+  <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" />
+  <img src="https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" /> 
+</p>
   
 ✉️ info@alexandermeise.com 
 

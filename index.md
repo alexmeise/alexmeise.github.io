@@ -3,10 +3,18 @@
 
 <a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/avalancheavax/52046432230/" title="AVADAY06-5"><img src="https://live.staticflickr.com/65535/52046432230_082535ca66_b.jpg" alt="AVADAY06-5">
 
-Senior DevOps at [nodeguardians.io](https://nodeguardians.io) 😎
+Senior DevOps at [nodeguardians.io](https://nodeguardians.io) 😎  
   
-<img src="creds.png" alt="drawing" width="13%"/>
+<img src="creds.png" alt="drawing" float="left"/>
 
+
+    
+  
+  
+  
+  
+  
+  
 📖 [Curriculum Vitae](https://alexmeise.github.io/cv)  
 📂 [Projects & Skills](http://alexmeise.github.io/projects)  
 🌐 [Linked In](https://www.linkedin.com/in/alexander-meise-7574a153/)  

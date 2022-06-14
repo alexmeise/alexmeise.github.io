@@ -1,5 +1,9 @@
 ![pic](https://avatars.githubusercontent.com/u/22340666?s=400&u=8d99f75b2882c0db7d1351fbb0a2385c6693708f&v=4)
 
+
+![CKA](https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)
+![AWS](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+
 ### Qualification Summary
 
 *   Cloud Engineer specialized in AWS and Kubernetes. 

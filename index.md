@@ -12,11 +12,13 @@ Senior DevOps at [nodeguardians.io](https://nodeguardians.io) 😎
 [GitHub](https://github.com/alexmeise)   
 [StackOverflow](https://stackoverflow.com/users/1869399/alexander-meise)  
 
- 
-<p float="left">
-  <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" />
-  <img src="https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" /> 
+
+ <p align="left">
+  <img alt="Light" src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
 </p>
+
   
 ✉️ info@alexandermeise.com 
 

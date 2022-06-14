@@ -5,7 +5,7 @@
 
 Senior DevOps at [nodeguardians.io](https://nodeguardians.io) 😎  
   
-<img src="creds.png" alt="drawing" float="left"/>
+
 
 
     
@@ -24,5 +24,5 @@ Senior DevOps at [nodeguardians.io](https://nodeguardians.io) 😎
 
   
 
-  
+<img src="creds.png" alt="drawing" float="left"/>  
 <img src="amlogo.png" alt="drawing" width="13%"/>

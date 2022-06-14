@@ -1,4 +1,4 @@
-<p style="text-align: center;"> :es::uk::de: </p>  
+:es::uk::de:
 
 <a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/avalancheavax/52046432230/" title="AVADAY06-5"><img src="https://live.staticflickr.com/65535/52046432230_082535ca66_b.jpg" alt="AVADAY06-5">
 

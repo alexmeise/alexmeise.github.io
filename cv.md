@@ -1,8 +1,5 @@
 ![pic](https://avatars.githubusercontent.com/u/22340666?s=400&u=8d99f75b2882c0db7d1351fbb0a2385c6693708f&v=4)
 
-<img src="https://user-images.githubusercontent.com/22340666/173552085-bd436b77-e495-4593-9499-c3ca8bfdfe8f.png"></img> <img src="https://user-images.githubusercontent.com/22340666/173552087-5a06c775-4fcc-4a6e-aa31-629c8161b924.png"></img> 
-
-
 ### Qualification Summary
 
 *   Cloud Engineer specialized in AWS and Kubernetes. 

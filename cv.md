@@ -4,17 +4,17 @@
 
 ### Qualification Summary
 
-*   Cloud Engineer specialized in AWS and Kubernetes. 
+*   Cloud Engineer specialized in AWS/GCP and Kubernetes.
 
-*   Operations and Project Work. 
+*   Operations and Project Work, Team Player.
 
-*   Spanish, English, German, Team player.
+*   Spanish C2, English C1, German B2, French A1.
 
 ### Employment
 
-#### Senior DevOps at nodeguardians.io - May 2022 - Present
+#### Senior DevOps at nodeguardians.io - May 2022 - Dec 2022
 
-> Terraform, Kubernetes, GCP and AWS. 
+> GCP and Kubernetes with Docker and Terraform. Kube-Prometheus.
 
 #### Senior Cloud SRE at CAPSiDE/NTT - Feb 2019 - May 2022
 

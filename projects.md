@@ -1,3 +1,34 @@
+## Recent Experience
+### Technical
+* Set up a new environment from scratch on GCP with GKE, Docker, Terraform, Prometheus, Grafana ...
+
+* Testing different tools and finding the best technological product for each task (traefik vs nginx ingress for example)
+
+* Implementing solutions with a focus on efficiency and security. (Secret management for example).
+
+* Running monolithical applications as containers and creating statefullset manifests from zero with sub-optimal documentation on a tight schedule.
+
+* Setting up a monitoring system with dedicated application metrics/alerts while prioritizing high availability and uptime.
+
+* Revisiting decisions with a focus on pricing and security.
+
+* Automating where possible.
+
+### Soft
+* Achieving Goals own my own with little to zero guidance/support.
+
+* Navigating areas out of the confort zone with profesionality and dedication.
+
+* Working in a remote-first lean, agile team as a Contractor/Partner while maintaining an ethical approach to workload management.
+
+* Allways keeping the DevOps principles in mind specially around IaC and Configuration Management. Do it once as code and then repeat.
+
+* Maintaining a "lets be ready to scale" approach with documentation and setups.
+
+* Ready to help team mates and handover information as needed.
+
+* Self-critical, Responsible, Engaged.
+
 ## Previous Experience - 2019-2022
 ### Technical    
 * Support heterogeneous client's CLOUD infrastrucure: whole lifecycle. Mainly AWS but also GCP.
@@ -10,9 +41,6 @@
 
 * High Availability, Monitoring, build reliable systems that auto scale and auto heal. 
 
-{% comment %}
-Need to talk more about IAC? 
-{% endcomment %}
 
 ### Soft 
 * Lead Projects and areas of expertise when needed and be able to transfer the knowledge during the process/afterwards. 

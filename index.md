@@ -1,18 +1,7 @@
 
-🇪🇸🇬🇧🇩🇪
-
 <a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/avalancheavax/52046432230/" title="AVADAY06-5"><img src="https://live.staticflickr.com/65535/52046432230_082535ca66_b.jpg" alt="AVADAY06-5">
 
-Senior DevOps at [nodeguardians.io](https://nodeguardians.io) 😎  
-  
-
-
-
-    
-  
-  
-  
-  
+Senior DevOps looking for a new Hybrid position in Freiburg/Bern Area
   
   
 📖 [Curriculum Vitae](https://alexmeise.github.io/cv)  

@@ -14,5 +14,5 @@ Senior DevOps looking for a new Hybrid position in Freiburg/Bern Area
 
   
 
-<img src="creds.png" alt="drawing" float="left"/>  
+<img src="credsupdated.png" alt="drawing" float="left"/>
 <img src="amlogo.png" alt="drawing" width="13%"/>

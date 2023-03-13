@@ -1,6 +1,6 @@
 ![pic](https://avatars.githubusercontent.com/u/22340666?s=400&u=8d99f75b2882c0db7d1351fbb0a2385c6693708f&v=4)
 
-<img src="creds.png" alt="drawing" class="center"/>
+<img src="credsupdated.png" alt="drawing" class="center"/>
 
 ### Qualification Summary
 
